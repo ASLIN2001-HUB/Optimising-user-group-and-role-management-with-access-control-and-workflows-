@@ -1,0 +1,2 @@
+# Optimising-user-group-and-role-management-with-access-control-and-workflows-
+This project focuses on enhancing and automating user role and group management within the ServiceNow platform. The main objective is to optimize access control, ensure secure authorization, and streamline workflows associated with role assignments. Using ServiceNow’s Access Control Lists (ACLs), Flow Designer, and Group Role configurations.
